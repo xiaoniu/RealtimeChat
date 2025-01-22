@@ -3,6 +3,7 @@ Android端接入火山引擎API 实现实时对话式AI
 
 # 效果
 
+<video src="https://github.com/xiaoniu/RealtimeChat/blob/main/video/sample.mp4" controls width="100%"></video>
 
 # 准备
 
